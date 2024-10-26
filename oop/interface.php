@@ -1,4 +1,5 @@
-<!-- interface same as abstract class, but we use multiple interface in a one class or child class -->
+<!-- interface same as abstract class, but we use multiple interface in a one class or child class. joint multiple class but not in abstction -->
+<!-- in the interface, restricted to use variable , constructor and destructor. and only use public function -->
 
 <?php
 
